@@ -1,0 +1,49 @@
+{
+    "status": true,
+    "data": [
+        {
+            "id": 1,
+            "name": "bob",
+            "photo": "/photos/1.jpg",
+            "courses": [
+                {
+                    "id": 1,
+                    "name": "basketball"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Zack",
+            "photo": "/photos/2.jpg",
+            "courses": [
+                {
+                    "id": 2,
+                    "name": "Football"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Charles",
+            "photo": "/photos/3.jpg",
+            "courses": [
+                {
+                    "id": 3,
+                    "name": "Rugby"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "maikel",
+            "photo": "/photos/4.jpg",
+            "courses": [
+                {
+                    "id": 4,
+                    "name": "Strenght"
+                }
+            ]
+        }
+    ]
+}
